@@ -1,1 +1,12 @@
-python-dotenv
+ansible-core==2.17.0
+distlib==0.3.8
+filelock==3.14.0
+Jinja2==3.1.2
+lxml==4.9.3
+MarkupSafe==2.1.3
+platformdirs==4.2.0
+Pygments==2.7.4
+PyYAML==6.0.1
+resolvelib==1.0.1
+virtualenv==3.10.0
+yamlloader==1.3.2
